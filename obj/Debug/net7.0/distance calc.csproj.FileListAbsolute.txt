@@ -1,0 +1,15 @@
+F:\C#\distance calc\bin\Debug\net7.0\distance calc.exe
+F:\C#\distance calc\bin\Debug\net7.0\distance calc.deps.json
+F:\C#\distance calc\bin\Debug\net7.0\distance calc.runtimeconfig.json
+F:\C#\distance calc\bin\Debug\net7.0\distance calc.dll
+F:\C#\distance calc\bin\Debug\net7.0\distance calc.pdb
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.csproj.AssemblyReference.cache
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.AssemblyInfoInputs.cache
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.AssemblyInfo.cs
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.csproj.CoreCompileInputs.cache
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.dll
+F:\C#\distance calc\obj\Debug\net7.0\refint\distance calc.dll
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.pdb
+F:\C#\distance calc\obj\Debug\net7.0\distance calc.genruntimeconfig.cache
+F:\C#\distance calc\obj\Debug\net7.0\ref\distance calc.dll
